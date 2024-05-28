@@ -1,0 +1,13 @@
+{
+    "name": "Vi-Vu",
+    "id":"vivu",
+"ctry2code": "VN",
+"ctry3code": "VNM",
+"demoUrl": "https://rhvoice.org/download/demo-app-vi-vu.mp3",
+"version": {
+"major": 4,
+"minor": 6
+},
+"dataUrl": "https://rhvoice.org/download/RHVoice-voice-Vietnamese-Vi-Vu-v4.6.zip",
+"dataMd5": "JvtYf/spRbgI8pNxLiJQpw=="
+}

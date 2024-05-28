@@ -1,0 +1,10 @@
+{
+  "name": "Vietnamese",
+  "pseudoEnglish": true,
+"version": {
+"major": 1,
+"minor": 7
+},
+"dataUrl": "https://rhvoice.org/download/RHVoice-language-Vietnamese-v1.7.zip",
+"dataMd5":"W6uUck8pVoBxAinB6baiAA=="
+}
