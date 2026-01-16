@@ -2,11 +2,11 @@
 "name": "Dragana",
 "ctry2code": "RS",
 "ctry3code": "SRB",
-"demoUrl": "https://github.com/RHVoice/dragana-srp/releases/download/4.7/demo-dragana.ogg",
+"demoUrl": "https://github.com/RHVoice/dragana-srp/releases/download/4.9/demo-dragana.ogg",
 "version": {
 "major": 4,
-"minor": 8
+"minor": 9
 },
-"dataUrl": "https://github.com/RHVoice/dragana-srp/releases/download/4.8/RHVoice-voice-Serbian-Dragana-v4.8.zip",
-"dataMd5": "BTbqsnN0TnR6SJGlW0plyg=="
+"dataUrl": "https://github.com/RHVoice/dragana-srp/releases/download/4.9/RHVoice-voice-Serbian-Dragana-v4.9.zip",
+"dataMd5": "IiR6YR1pzeBA+WabWg/MRw=="
 }

@@ -2,11 +2,11 @@
 "name": "Zdenek",
 "ctry2code": "CZ",
 "ctry3code": "CZE",
-"demoUrl": "https://github.com/RHVoice/zdenek-cze/releases/download/v4.4/zdenek.ogg",
+"demoUrl": "https://github.com/RHVoice/zdenek-cze/releases/download/4.8/demo-zdenek.ogg",
 "version": {
 "major": 4,
-"minor": 6
+"minor": 8
 },
-"dataUrl": "https://github.com/RHVoice/zdenek-cze/releases/download/4.6/RHVoice-voice-Czech-Zdenek-v4.6.zip",
-"dataMd5": "EoM5CjWPF7eKIpDre8bD7A=="
+"dataUrl": "https://github.com/RHVoice/zdenek-cze/releases/download/4.8/RHVoice-voice-Czech-Zdenek-v4.8.zip",
+"dataMd5": "wRzeh+9WXdc3BLrtjoatbw=="
 }

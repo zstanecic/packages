@@ -1,0 +1,12 @@
+{
+"name": "Ryhor-Rus",
+"ctry2code": "BY",
+"ctry3code": "BLR",
+"demoUrl": "https://github.com/RHVoice/ryhor-rus/releases/download/4.1/demo-ryhor-rus.ogg",
+"version": {
+"major": 4,
+"minor": 1
+},
+"dataUrl": "https://github.com/RHVoice/ryhor-rus/releases/download/4.1/RHVoice-voice-Russian-Ryhor-Rus-v4.1.zip",
+"dataMd5": "GVt3gHwjpq83pFmlu8/2wQ=="
+}

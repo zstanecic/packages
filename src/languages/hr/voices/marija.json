@@ -1,0 +1,12 @@
+{
+"name": "Marija",
+"ctry2code": "HR",
+"ctry3code": "HRV",
+"demoUrl": "https://github.com/RHVoice/marija-hrv/releases/download/4.1/demo-marija.ogg",
+"version": {
+"major": 4,
+"minor": 1
+},
+"dataUrl": "https://github.com/RHVoice/marija-hrv/releases/download/4.1/RHVoice-voice-Croatian-Marija-v4.1.zip",
+"dataMd5": "F1XYvXeyRpxSys2CmKWo2A=="
+}
