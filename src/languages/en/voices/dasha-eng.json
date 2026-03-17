@@ -1,0 +1,12 @@
+{
+"name": "Dasha-Eng",
+"ctry2code": "RU",
+"ctry3code": "RUS",
+"demoUrl": "https://github.com/RHVoice/dasha-eng/releases/download/4.2/demo-dasha-eng.ogg",
+"version": {
+"major": 4,
+"minor": 2
+},
+"dataUrl": "https://github.com/RHVoice/dasha-eng/releases/download/4.2/RHVoice-voice-English-Dasha-Eng-v4.2.zip",
+"dataMd5": "35il+VK5Fr02cPd9yCYdoQ=="
+}
