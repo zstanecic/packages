@@ -2,11 +2,11 @@
 "name": "Seva",
 "ctry2code": "RU",
 "ctry3code": "RUS",
-"demoUrl": "https://github.com/RHVoice/Seva-rus/releases/download/4.0/Seva.ogg",
+"demoUrl": "https://github.com/RHVoice/Seva-rus/releases/download/4.1/demo-seva.ogg",
 "version": {
 "major": 4,
-"minor": 0
+"minor": 1
 },
-"dataUrl": "https://github.com/RHVoice/Seva-rus/releases/download/4.0/RHVoice-voice-Russian-Seva-v4.0.zip",
-"dataMd5": "nHS0WzAJsTnxPrjRQyx07A=="
+"dataUrl": "https://github.com/RHVoice/Seva-rus/releases/download/4.1/RHVoice-voice-Russian-Seva-v4.1.zip",
+"dataMd5": "1KdWCsKoYL1RzTKcaHGOHg=="
 }
